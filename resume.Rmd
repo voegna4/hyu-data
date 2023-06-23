@@ -1,0 +1,40 @@
+---
+title: "이력서"
+author: "YuJun Heo"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+mail: "bottlian_related_0n@icloud.com"
+phoneNumber: "010-5820-2935"
+output:
+  html_document:
+    template: default.html
+---
+
+# Skills
+
+- <strong>Frontend</strong>
+  - 🔥 Typescript (React, NextJS, ..)
+  - Flutter
+  - SwiftUI
+
+<br>  
+  
+- <strong>Backend</strong>
+  - 🔥 Typescript (NodeJS, NestJS, ..)
+  - Python
+  - C Language
+
+# Career
+- <strong>스타트업 ********** 웹 개발자 ( 2021.03.01 ~ 2021.11.31 )</strong>
+    1. ************ 해외비지니스 매칭사업 백오피스 퍼블리싱 및 개발
+    2. 빅데이터 기반 광고 플랫폼 ************** 백오피스 퍼블리싱 및 개발
+    3. 실시간 거래 플랫폼 ********* 서버 개발
+    4. 점심 공유 플랫폼 *********** 서버 개발
+
+<br>
+
+- <strong>스타트업 ********* 서버 개발자 ( 2022.12.01 ~ 2022.02.28 )</strong>
+    1. 직장 경험 공유 플랫폼 *********** 서버 개발
+    2. 직장 경험 공유 플랫폼 모바일 웹 버전 외주 개발 (2022.06.22 ~ 2022.08.31)
+
+# Eduction
+- Department Of Electronic Engineering, Hanyang University, Seoul
